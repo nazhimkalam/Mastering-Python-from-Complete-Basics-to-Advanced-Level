@@ -1,4 +1,4 @@
-# 🐍 Python Complete Course Guide
+# 🐍 Python Complete Course Guide (This content is for Udemy)
 
 ## These are the following topics which will be covered in this course 💻
 
