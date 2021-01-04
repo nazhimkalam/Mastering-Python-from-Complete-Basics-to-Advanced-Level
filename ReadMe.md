@@ -4,7 +4,7 @@
 
 ### **1.** Introduction to Python and Installation 🚀
 
-### **2**. Variables and Types 🚀
+### **2**. Variables and Data Types 🚀
 
 ### **3**. Operators in Python 🚀
 
