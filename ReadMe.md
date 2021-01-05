@@ -10,11 +10,11 @@
 
 ### **4**. Math and User Inputs 🚀
 
-### **5**. Data Structures 🚀
+### **5**. Conditionals and Loops 🚀
 
 ### **6**. String Manipulation 🚀
 
-### **7**. Conditionals and Loops 🚀
+### **7**. Data Structures 🚀
 
 ### **8**. Functions in Python 🚀
 
