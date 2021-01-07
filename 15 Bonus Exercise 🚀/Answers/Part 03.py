@@ -1,7 +1,3 @@
-# I declare that my work contains no examples of misconduct, such as plagiarism, or collusion.
-# Any code taken from other sources is referenced within my code solution.
-# Student ID: 2019281
-# Date: 27/11/2019 
 
 def pass_40():                   #function created called pass_40()
     exclude=False                #assign False to exclude variable

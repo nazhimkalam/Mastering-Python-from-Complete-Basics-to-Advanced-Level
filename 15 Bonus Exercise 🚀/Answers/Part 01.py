@@ -1,9 +1,3 @@
-# I declare that my work contains no examples of misconduct, such as plagiarism, or collusion.
-# Any code taken from other sources is referenced within my code solution.
-# Student ID: 2019281
-# Date: 27/11/2019
-
-
 
 def pass_40():                                           #function created called pass_40()
     if defer==0 and fail==80:                            #checks if defer is equal to 0 and if fail is equal to 80
